@@ -92,7 +92,7 @@ Sample Response:
 }
 🚀 Installation & Setup Instructions
 1️⃣ Clone the Repository
-git clone https://github.com/your-github-username/movie-collection-api.git
+git clone https:https://github.com/RIFARAUF/movie-collection-api.git
 cd movie-collection-api
 
 2️⃣ Install Dependencies
@@ -131,7 +131,7 @@ Error handling for API requests
 
 🔗 GitHub Repository
 
-https://github.com/your-github-username/movie-collection-api
+https:https://github.com/RIFARAUF/movie-collection-api.git
 
 
 
