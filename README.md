@@ -133,6 +133,11 @@ Error handling for API requests
 
 https:https://github.com/RIFARAUF/movie-collection-api.git
 
+✍️ Author
+Fathima Rifa 
+  
+
+
 
 
 
